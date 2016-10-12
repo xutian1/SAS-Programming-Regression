@@ -13,9 +13,13 @@ According to Wikipedia, Nitrogen oxides (NOx) refers to a mixture of compounds s
 II Method	
 
 i.	Initial Modeling with General Linear Model	
+
 ii.	Generalized Linear Model with Gamma Distribution	
+
 iii.	Generalized Linear Model with Inverse Gaussian Distribution	
+
 iv.	Comparison between Gamma Model and Inverse Gaussian Model	
+
 v.	Final Generalized Linear Model with Inverse Gaussian Distribution and Log Link Function
 
 III. ANOVA Analysis on RAD (Index value of accessibility to highways)
